@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int maint(){
+int main(){
     char c = '!'; 
 
     int i = 2;
